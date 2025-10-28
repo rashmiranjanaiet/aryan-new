@@ -1,0 +1,5 @@
+{
+  "name": "Skill-Based Job Finder",
+  "description": "An intelligent application that suggests common job roles and their market demand based on a user-provided technical skill. Powered by the Gemini API.",
+  "requestFramePermissions": []
+}
